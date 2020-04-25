@@ -1,6 +1,8 @@
 # *DJ'(s crap)*
 ### Assorted python files with HD graphics!
 Last update: 4/25/2020
+[Download zip of all files](https://github.com/djsime1/scraps/archive/master.zip)
+
 ## Table of Contents:
 (In order of most epic to least epic)
 - graphics.py
