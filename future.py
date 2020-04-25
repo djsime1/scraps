@@ -85,7 +85,7 @@ while not win.closed:
 
     if r == 810:
         for i in ml:
-            i.move(1800,0)
+            i.move(1620,0)
         r = 0
 
     r += 1
