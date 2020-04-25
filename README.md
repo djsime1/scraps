@@ -1,11 +1,10 @@
 # *DJ'(s crap)*
 ### Assorted python files with HD graphics!
 Last update: 4/25/2020
-[Download zip of all files](https://github.com/djsime1/scraps/archive/master.zip)
-
 ## Table of Contents:
 (In order of most epic to least epic)
 - graphics.py
+- future.py
 - ball.py
 - joystick.py
 - skittles.py
@@ -13,6 +12,9 @@ Last update: 4/25/2020
 ## graphics.py
 The library that does all things!
 [(Using my forked version)](https://github.com/djsime1/pythonGraphics)
+
+## Spinning cube (future.py)
+3D vector model proof of concept.
 
 ## Bouncing Ball (ball.py)
 A very simple physics simulation.
